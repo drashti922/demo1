@@ -1,0 +1,98 @@
+.example-small-box,
+.example-large-box {
+  /* height: calc(100vh - 155px); */
+  height:510px;
+  margin: 1%;
+  /* margin-left: 22px; */
+ 
+  border-radius: 8px;
+  overflow: auto;
+  /* background: rgb(215,224,228); */
+}
+/* mat-grid-tile {
+  background:rgb(215,224,228);
+  width: 500px;
+  height: 100%;
+  border-collapse: collapse;
+  border-radius: 1em;
+  
+ 
+}
+
+
+  .heading {
+    top: 0;
+    left: 0;
+    right: 0;
+   margin:5px;
+   
+    position: absolute;
+    display: flex;
+    align-items: baseline;
+    border-bottom:2px solid rgb(56, 56, 78);
+    background-image: linear-gradient() ;
+    justify-content: center; 
+     
+     font-style: normal; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(22, 22, 21);
+    
+  
+   
+  } 
+ .prg-1{
+    margin-bottom: 270px;
+    margin-left: 100px;
+    padding-left: 50px;
+    padding-right: 10px;
+    width: 110px;
+    
+}
+
+  mat-form-field{
+    margin: 10px;
+    height: 10px;
+  }
+  .generate{
+    margin:10px;
+    margin-left: 245px;
+    background-image: linear-gradient(#b7c9d6 ,#203647 );
+
+    color:#e7f0f7;
+    
+    
+  }
+  
+  .overallprogress{
+    margin-bottom: 21px;
+   text-align: center;
+   padding-top: 16px;
+  }
+  .leftpart{
+    width: 202px;
+  }
+ .Individual{
+   width: 100px;
+ }
+ .sub-heading {
+  
+  margin:5px 5px 175px 5px;
+  padding-bottom: 15px;
+ 
+  position: absolute;
+  display: flex;
+  align-items: baseline;
+  
+  background-image: linear-gradient() ;
+  justify-content: center; 
+  
+   font-style: normal; 
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:rgb(22, 22, 21);
+  
+}
+.indi-1{
+  margin: 10px;
+  padding:50px;
+  
+} */

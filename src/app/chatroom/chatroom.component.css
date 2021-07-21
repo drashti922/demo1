@@ -1,0 +1,9 @@
+.another-div {
+  margin: 20px 10px 10px 10px;
+  font-size: 1.5rem;
+  display: block;
+  border: 5px solid rgb(231, 208, 0);
+  background-color: rgb(153, 189, 56);
+  text-align: center;
+  height: calc(80vh - 200px);
+}
